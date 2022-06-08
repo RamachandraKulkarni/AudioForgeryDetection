@@ -1,0 +1,8 @@
+numpy
+scipy
+librosa
+matplotlib
+scikit-learn
+torchinfo
+puts==0.0.8
+
