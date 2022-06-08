@@ -1,6 +1,6 @@
 # Audio Forgery Detection
 
-Check out our: [Project Report](AFD_Paper.pdf) 
+Check out our: [Project Report](AFD_Paper.pdf) | [Interactive Website](https://ramachandrakulkarni.github.io/AudioForgeryDetection/)
 
 ## Setup Environment
 
