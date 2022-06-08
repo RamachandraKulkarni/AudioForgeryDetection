@@ -1,5 +1,7 @@
 # Audio Forgery Detection
 
+Check out our: [Project Report](AFD Paper.pdf) | [Interactive Website](https://markhh.com/AudioDeepFakeDetection/)
+
 ## Setup Environment
 
 ```bash
