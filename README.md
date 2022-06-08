@@ -1,10 +1,4 @@
-# Audio Deep Fake Detection
-
-A Course Project for SUTD 50.039 Theory and Practice of Deep Learning (2022 Spring)
-
-Created by [Mark He Huang](https://markhh.com/), [Peiyuan Zhang](https://www.linkedin.com/in/lance-peiyuan-zhang-5b2886194/), [James Raphael Tiovalen](https://jamestiotio.github.io/), [Madhumitha Balaji](https://www.linkedin.com/in/madhu-balaji/), and [Shyam Sridhar](https://www.linkedin.com/in/shyam-sridhar/).
-
-Check out our: [Project Report](Report.pdf) | [Interactive Website](https://markhh.com/AudioDeepFakeDetection/)
+# Audio Forgery Detection
 
 ## Setup Environment
 
@@ -51,7 +45,7 @@ data
 
 ## Model Checkpoints
 
-You may download the model checkpoints from here: [Google Drive](https://drive.google.com/drive/folders/1iR2zLQjBZgxIs3gHkXh54Ulg-M6-6W4L?usp=sharing). Unzip the files and replace the `saved` directory with the extracted files.
+You may download the model checkpoints from here: [Google Drive](https://drive.google.com/file/d/1HYv9YFRQp1az5lvfqrWbsM3lHADMFwLd/view?usp=sharing). Unzip the files and replace the `saved` directory with the extracted files.
 
 ## Training
 
@@ -122,12 +116,6 @@ Run the following command to re-compute the evaluation results based on saved pr
 ```bash
 python metrics.py
 ```
-
-## Acknowledgements
-
--   We thank [Dr. Matthieu De Mari](https://istd.sutd.edu.sg/people/faculty/matthieu-de-mari) and [Prof. Berrak Sisman](https://istd.sutd.edu.sg/people/faculty/berrak-sisman) for their teaching and guidance.
--   We thank Joel Frank and Lea Schönherr. Our code is partially adopted from their repository [WaveFake](https://github.com/RUB-SysSec/WaveFake).
--   We thank [Prof. Liu Jun](https://istd.sutd.edu.sg/people/faculty/liu-jun) for providing GPU resources for conducting experiments for this project.
 
 ## License
 
