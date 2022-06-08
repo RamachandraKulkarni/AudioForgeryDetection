@@ -1,6 +1,6 @@
 # Audio Forgery Detection
 
-Check out our: [Project Report](AFD Paper.pdf) | [Interactive Website](https://markhh.com/AudioDeepFakeDetection/)
+Check out our: [Project Report](AFD_Paper.pdf) | [Interactive Website](https://markhh.com/AudioDeepFakeDetection/)
 
 ## Setup Environment
 
